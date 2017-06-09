@@ -1,4 +1,4 @@
-package com.vuongideas.showsaround.venuescraper;
+package com.vuongideas.showsaround.helper.venuescraper;
 
 import java.io.IOException;
 import java.util.ArrayList;

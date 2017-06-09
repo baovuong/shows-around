@@ -6,9 +6,9 @@ import java.util.List;
 
 import org.junit.Test;
 
+import com.vuongideas.showsaround.helper.venuescraper.KingsVenueScraper;
+import com.vuongideas.showsaround.helper.venuescraper.VenueScraper;
 import com.vuongideas.showsaround.model.Show;
-import com.vuongideas.showsaround.venuescraper.KingsVenueScraper;
-import com.vuongideas.showsaround.venuescraper.VenueScraper;
 
 public class ScraperTests {
 
